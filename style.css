@@ -1,0 +1,190 @@
+
+body{
+
+	font-family: 'Playfair Display', serif;
+}
+
+/* header start here*/
+#header{
+	width: 100%;
+	height: 80px;
+	
+}
+.logo{
+	padding: 15px 30px;
+}
+.logo img{}
+
+
+.menu{
+	float: right;
+}
+.menu ul {
+	list-style: none;
+
+}
+.menu ul li{
+	padding: 30px 30px;
+	text-transform: uppercase;
+}
+.menu ul li a{
+	text-decoration: none;
+}
+.menu ul li a:hover{
+		color:orange;
+}
+
+/*header end here only logo and menu*/
+
+/*banner section start here */
+.banner{
+
+}
+.banner img{
+	width: 100%;
+	height: 770px;
+	padding: 50px;
+}
+
+/*banner section end here */
+
+/*photo dairy*/
+.photodairy{}
+.photodairy p{}
+.photodairy h3{}
+/*photo dairy end*/
+
+
+/*life style*/
+
+/*life style end here today */
+/*section right left double and samme css code*/
+.life-style{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.life-style img{}
+.life-style p{
+	padding-top: 50px;
+}
+
+.life-style h3{
+
+	padding-top: 30px;
+
+}
+
+/*life style end here today */
+/*section right left double and samme css code*/
+
+/*photo graphy end here today */
+/*section right left double and samme css code*/
+.photo-graphy{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.photo-graphy img{}
+.photo-graphy p{
+	padding-top: 50px;
+}
+
+.photo-graphy h3{
+
+	padding-top: 30px;
+
+}
+
+
+/*photo graphy end here today */
+/*section right left double and samme css code*/
+
+/*sign up form today maker */
+#signup{
+	width: 100%;
+	height: 300px;
+	background-color:#95a5a6;
+	text-align: center;
+	padding-top: 100px;
+	margin-top: 50px;
+	
+}
+#signup h2{}
+
+#email{
+	  width: 300px;
+    height: 60px;
+    margin: 50px 250px;
+    border:none;
+     border-bottom: 1px solid black;
+     padding: 5px 10px;
+}
+/*sign up form today maker */
+
+/*life style start here same work and same double css code*/
+
+.life-style-2{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.life-style-2 img{}
+.life-style-2 p{
+	padding-top: 50px;
+}
+
+.life-style-2 h3{
+
+	padding-top: 30px;
+
+}
+
+/*life style start here same work and same double css code*/
+
+
+/*load more button start here to
+					day lifer style 2 er niche load more button*/
+
+
+#load-more input{
+	
+}
+
+/*button kaj kore na */
+
+
+/*footer start here*/
+.footer{
+	width: 100%;
+	height: 80px;
+	background-color: #bdc3c7;
+	margin-top: 100px;
+}
+.footer-text{
+	float: left;
+	padding: 20px 20px;
+
+
+}
+.footer-icon{
+	float: right;
+	padding: 20px 20px;
+
+}
+.footer-icon ul{}
+.footer-icon ul li{
+	list-style: none;
+	padding: 10px 15px;
+}
+.footer-icon ul li a{
+	color: black;
+}
+
+/*footer start here*/
